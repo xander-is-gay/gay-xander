@@ -1,0 +1,1 @@
+eula=MichaelHenders6/tsa-server
